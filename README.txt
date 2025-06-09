@@ -1,4 +1,4 @@
-- TÍTULO DO PROJETO. 
+- TÍTULO DO PROJETO.
 	RedeCAD.
 
 - DESCRIÇÃO DO PROJETO.
@@ -22,7 +22,7 @@
 	Após a instalação, clicar em RedeCAD.exe, que rodará o sistema. O programa é auto explicativo, possui textos que auxiliam na hora de digitação e não traz complicações no entendimento dos lançamentos, sendo que os comando são solicitados na tela, só seguir as solicitação que rodará o sistema.
 
 - AUTOR. 
-	Gilmar Carabajal.
+	Gilmar Brum Carabajal.
 
 - LICENÇA DE USO:
 	A licença para utilizar o sistema é gratuito, e após o cadastramento  enviar e-mail para gcsolucoesvba@gmail.com, devendo incluir o seu endereço de e-mail e um número de telefone de contato, inclua também o nome para o qual pretende que o sistema seja registada (30 caracteres máximo).
