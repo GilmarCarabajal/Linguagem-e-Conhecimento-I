@@ -8,6 +8,7 @@
 	O Google Earth é software que permite ao usuário navegar em mapas, fornecendo as coordenadas tridimensionais (x,y,z) do globo terrestre. Utiliza os arquivos de linguagem de marcação (Keyhole Markup Language –KML-) para ver e compartilhar informações do Google Earth.		
 	O AutoCAD é um aplicativo do tipo CAD — computer aided design ou desenho auxiliado por computador criado e comercializado pela Auto Desk, Inc.. É utilizado para a criação de entidades geométricas (pontos, linhas, criação de blocos e outros elementos que compõem um projeto).
 	A organização dos desenhos no AutoCAD é feito através de layers, onde cada layer é utilizado para discriminar as informações gráficas do desenho.
+	-Aplicativo gerado a partir de javascript
 
 - COMO EXECUTAR O PROJETO.
 	INSTALAÇÃO:	
